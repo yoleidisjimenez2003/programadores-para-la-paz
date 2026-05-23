@@ -1,0 +1,8 @@
+El uso de herramientas como Git es importante porque permite llevar un control organizado de los cambios en un proyecto de software. 
+Gracias a esto, los desarrolladores pueden ver el historial completo del trabajo realizado. 
+También ayuda a corregir errores sin perder información importante. 
+Git facilita el trabajo en equipo porque varias personas pueden colaborar al mismo tiempo. 
+Además, permite comparar versiones anteriores del proyecto. 
+Esto mejora la seguridad del desarrollo porque nada se pierde fácilmente. 
+También ayuda a entender cómo ha evolucionado el proyecto con el tiempo. 
+Por estas razones, Git es una herramienta fundamental en el desarrollo de software.
