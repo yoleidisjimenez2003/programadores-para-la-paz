@@ -1,0 +1,8 @@
+El uso de la terminal es importante porque permite trabajar de forma rápida y directa con el sistema.
+Facilita la creación y organización de archivos dentro de un proyecto.
+También permite usar Git de manera eficiente.
+Ayuda a automatizar tareas y entender mejor la estructura de carpetas.
+Es una herramienta clave en el desarrollo de software.
+Permite controlar versiones del proyecto.
+Mejora la productividad del programador.
+Y es fundamental para el trabajo en equipo.
