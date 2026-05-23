@@ -1,0 +1,5 @@
+^X Exit        ^R Read File   ^\ Replace     ^U Paste       ^J Justify     ^/ Go To Line
+
+pwd
+ls
+mkdir semana2
