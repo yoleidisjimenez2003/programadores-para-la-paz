@@ -1,0 +1,11 @@
+Prueba 1:
+Ruta: http://localhost:3000
+Resultado: El navegador muestra el mensaje "Servidor activo".
+
+Prueba 2:
+Ruta: http://localhost:3000/saludo
+Resultado: El navegador muestra el mensaje "Hola comunidad".
+
+Prueba 3:
+Ruta: http://localhost:3000/mensaje/juan
+Resultado: El servidor recibe el nombre "juan" y responde con el mensaje "Hola juan".
